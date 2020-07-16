@@ -22,7 +22,7 @@ pod 'GLTools1'
 
 ## Author
 
-gaolong1314, 1430760748@qq.com
+gaolong1314, 1430760748@qq.com 
 
 ## License
 
