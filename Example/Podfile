@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'GLTools1_Example' do
+  pod 'GLTools1', :path => '../'
+
+  target 'GLTools1_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
